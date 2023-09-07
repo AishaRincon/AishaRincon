@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AishaRincon
 - 🌱 I’m currently learning software development with UNLV.
-- 👀 I’m interested in learning as much Javascript as I possibly can. 
+- 👀 I’m interested in learning as much softwware development as a whole as I possibly can. 
 - 💞️ I’m looking to collaborate on front end projects. 
 - 📫 Please feel free to reach me at aisharincon@gmail.com
 
